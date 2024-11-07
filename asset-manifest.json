@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/rbac-fe/static/css/main.6025e240.css",
+    "main.js": "/rbac-fe/static/js/main.b428b01f.js",
+    "index.html": "/rbac-fe/index.html",
+    "main.6025e240.css.map": "/rbac-fe/static/css/main.6025e240.css.map",
+    "main.b428b01f.js.map": "/rbac-fe/static/js/main.b428b01f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6025e240.css",
+    "static/js/main.b428b01f.js"
+  ]
+}
